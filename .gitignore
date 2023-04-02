@@ -1,0 +1,7 @@
+# Python-specific files
+__pycache__/
+*.pyc
+# Flask specific files
+instance/
+__pycache__/
+venv/
