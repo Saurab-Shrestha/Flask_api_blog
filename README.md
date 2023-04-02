@@ -6,7 +6,7 @@ This is a Flask_based API for a blog application that allows users to register, 
 1. Clone the repository:
 
 ```
-git clone https://github.com/<username>/flask-blog-api.git
+git clone https://github.com/Saurab-Shrestha/Flask_api_blog.git
 ```
 
 2. Navigate to the project directory:
